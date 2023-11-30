@@ -1,6 +1,6 @@
 # aging-wat
 # Aging human abdominal subcutaneous white adipose tissue at single cell resolution
-**Katie L Whytock<sup>1</sup>, Adeline Divoux <sup>1</sup>, Yifei Sun <sup>3</sup>, Maria F Pino<sup>1</sup>, GongXin Yu<sup>1</sup>,Steven R Smith<sup>1</sup>, Martin J Walsh <sup>3</sup>, Lauren M Sparks<sup>1</sup>
+Katie L Whytock<sup>1</sup>, Adeline Divoux <sup>1</sup>, Yifei Sun <sup>3</sup>, Maria F Pino<sup>1</sup>, GongXin Yu<sup>1</sup>, Steven R Smith<sup>1</sup>, Martin J Walsh <sup>3</sup>, Lauren M Sparks<sup>1</sup>
 
 <sup>1</sup> Translational Research Institute, AdventHealth Orlando, FL, USA <br>
 <sup>2</sup> Icahn School of Medicine at Mount Sinai, New York, NY, US <br>
