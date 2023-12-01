@@ -40,7 +40,7 @@ library(ggradar)
 library(ggradar2)
 library(fmsb)
 library(fgsea)
-library(GSEAseuratse)
+library(GSEABase)
 library(grid)
 
 seurat <- readRDS('harmony.sct.V2.RDS')
