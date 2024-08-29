@@ -242,7 +242,7 @@ Add_Well_To_Meta <- function(well, seurat, sample_name){
 raw_counts <- read.table("sample_name_analysis_incl_introns_genematrix.csv", header = T, sep = ',') ##CogentAP output
 stats <- read.csv("sample_name_analysis_incl_introns_stats.csv") ##CogentAP output
 well <- read.table("sample_name_WellList.TXT",  header = T,  sep="\t") ##Output from CellSelect 
-gene_info <- read.csv("sample_name_gene_info_incl_introns.csv")
+gene_info <- read.csv("gene_info_incl_introns.csv")
 
 sample_name <- "sample_name" # i.e. Participant_1
 
