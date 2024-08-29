@@ -239,10 +239,10 @@ Add_Well_To_Meta <- function(well, seurat, sample_name){
 
 
 ##Load filtered data from cellranger for preliminary analysis
-raw_counts <- read.table("sample_name_analysis_incl_introns_genematrix.csv", header = T, sep = ',') ##CogentAP output
-stats <- read.csv("sample_name_analysis_incl_introns_stats.csv") ##CogentAP output
-well <- read.table("sample_name_WellList.TXT",  header = T,  sep="\t") ##Output from CellSelect 
-gene_info <- read.csv("gene_info_incl_introns.csv")
+raw_counts <- read.table("sample_name_analysis_incl_introns_genematrix.csv", header = T, sep = ',') ##CogentAP output, obtain from GSE235529
+stats <- read.csv("sample_name_analysis_incl_introns_stats.csv") ##CogentAP output, can be found in files directory
+well <- read.table("sample_name_WellList.TXT",  header = T,  sep="\t") ##Output from CellSelect, obtain from GSE235529
+gene_info <- read.csv("gene_info_incl_introns.csv") ##output from CogentAP, is the same for each sample, can be found in files directory
 
 sample_name <- "sample_name" # i.e. Participant_1
 
